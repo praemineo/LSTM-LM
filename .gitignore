@@ -1,4 +1,5 @@
 data/
 logs/
-model/*_bk/
+model/
+*.p
 .ipynb_checkpoints/
